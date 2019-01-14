@@ -1,1 +1,145 @@
-[{"id":"619d067b-60fc-4b11-b40b-fff5c4824fe3","partnerId":"123-1","createDate":"2019-01-08T14:23:37.637","invoiceFile":{"label":"Meine Rechnung"},"invoiceContent":{"zsrNumber":"zsr-123","treatmentDate":"2019-01-01","invoiceDate":"2019-01-02","invoiceItems":[{"invoiceItemType":"DEFAULT","amount":{"label":"Knie","value":"100.00 CHF"}},{"invoiceItemType":"DEFAULT","amount":{"label":"Rücken","value":"200.00 CHF"}}],"totalAmount":{"label":"Rechnungsbetrag","value":"300.00 CHF"}},"reimbursementInformation":{"totalAmount":{"label":"Rechnungsbetrag","value":"300.00 CHF"},"sanitasAmount":{"label":"Betrag Sanitas","value":"220.00 CHF"},"partnerAmount":{"label":"Betrag Kunde","value":"80.00 CHF"}}},{"id":"5668d2bc-d1df-48c6-bc58-135eec350074","partnerId":"123-1","createDate":"2019-01-08T14:31:14.669","invoiceFile":{"label":"Meine Rechnung"},"invoiceContent":{"zsrNumber":"zsr-123","treatmentDate":"2019-01-01","invoiceDate":"2019-01-02","invoiceItems":[{"invoiceItemType":"DEFAULT","amount":{"label":"Knie","value":"100.00 CHF"}},{"invoiceItemType":"DEFAULT","amount":{"label":"Rücken","value":"200.00 CHF"}}],"totalAmount":{"label":"Rechnungsbetrag","value":"300.00 CHF"}},"reimbursementInformation":{"totalAmount":{"label":"Rechnungsbetrag","value":"300.00 CHF"},"sanitasAmount":{"label":"Betrag Sanitas","value":"220.00 CHF"},"partnerAmount":{"label":"Betrag Kunde","value":"80.00 CHF"}}},{"id":"90ffe9b7-de18-4a09-ae24-8f8db380868a","partnerId":"123-1","createDate":"2019-01-11T17:25:40.963","invoiceFile":{"label":"Meine Rechnung"},"invoiceContent":{"zsrNumber":"zsr-123","treatmentDate":"2019-01-01","invoiceDate":"2019-01-02","invoiceItems":[{"invoiceItemType":"DEFAULT","amount":{"label":"Knie","value":"100.00 CHF"}},{"invoiceItemType":"DEFAULT","amount":{"label":"Rücken","value":"200.00 CHF"}}],"totalAmount":{"label":"Rechnungsbetrag","value":"300.00 CHF"}},"reimbursementInformation":{"totalAmount":{"label":"Rechnungsbetrag","value":"300.00 CHF"},"sanitasAmount":{"label":"Betrag Sanitas","value":"220.00 CHF"},"partnerAmount":{"label":"Betrag Kunde","value":"80.00 CHF"}}}]
+{ "invoices" :
+[
+   {
+      "id":"619d067b-60fc-4b11-b40b-fff5c4824fe3",
+      "partnerId":"123-1",
+      "createDate":"2019-01-08T14:23:37.637",
+      "invoiceFile":{
+         "label":"Meine Rechnung"
+      },
+      "invoiceContent":{
+         "zsrNumber":"zsr-123",
+         "treatmentDate":"2019-01-01",
+         "invoiceDate":"2019-01-02",
+         "invoiceItems":[
+            {
+               "invoiceItemType":"DEFAULT",
+               "amount":{
+                  "label":"Knie",
+                  "value":"100.00 CHF"
+               }
+            },
+            {
+               "invoiceItemType":"DEFAULT",
+               "amount":{
+                  "label":"Rücken",
+                  "value":"200.00 CHF"
+               }
+            }
+         ],
+         "totalAmount":{
+            "label":"Rechnungsbetrag",
+            "value":"300.00 CHF"
+         }
+      },
+      "reimbursementInformation":{
+         "totalAmount":{
+            "label":"Rechnungsbetrag",
+            "value":"300.00 CHF"
+         },
+         "sanitasAmount":{
+            "label":"Betrag Sanitas",
+            "value":"220.00 CHF"
+         },
+         "partnerAmount":{
+            "label":"Betrag Kunde",
+            "value":"80.00 CHF"
+         }
+      }
+   },
+   {
+      "id":"5668d2bc-d1df-48c6-bc58-135eec350074",
+      "partnerId":"123-1",
+      "createDate":"2019-01-08T14:31:14.669",
+      "invoiceFile":{
+         "label":"Meine Rechnung"
+      },
+      "invoiceContent":{
+         "zsrNumber":"zsr-123",
+         "treatmentDate":"2019-01-01",
+         "invoiceDate":"2019-01-02",
+         "invoiceItems":[
+            {
+               "invoiceItemType":"DEFAULT",
+               "amount":{
+                  "label":"Knie",
+                  "value":"100.00 CHF"
+               }
+            },
+            {
+               "invoiceItemType":"DEFAULT",
+               "amount":{
+                  "label":"Rücken",
+                  "value":"200.00 CHF"
+               }
+            }
+         ],
+         "totalAmount":{
+            "label":"Rechnungsbetrag",
+            "value":"300.00 CHF"
+         }
+      },
+      "reimbursementInformation":{
+         "totalAmount":{
+            "label":"Rechnungsbetrag",
+            "value":"300.00 CHF"
+         },
+         "sanitasAmount":{
+            "label":"Betrag Sanitas",
+            "value":"220.00 CHF"
+         },
+         "partnerAmount":{
+            "label":"Betrag Kunde",
+            "value":"80.00 CHF"
+         }
+      }
+   },
+   {
+      "id":"90ffe9b7-de18-4a09-ae24-8f8db380868a",
+      "partnerId":"123-1",
+      "createDate":"2019-01-11T17:25:40.963",
+      "invoiceFile":{
+         "label":"Meine Rechnung"
+      },
+      "invoiceContent":{
+         "zsrNumber":"zsr-123",
+         "treatmentDate":"2019-01-01",
+         "invoiceDate":"2019-01-02",
+         "invoiceItems":[
+            {
+               "invoiceItemType":"DEFAULT",
+               "amount":{
+                  "label":"Knie",
+                  "value":"100.00 CHF"
+               }
+            },
+            {
+               "invoiceItemType":"DEFAULT",
+               "amount":{
+                  "label":"Rücken",
+                  "value":"200.00 CHF"
+               }
+            }
+         ],
+         "totalAmount":{
+            "label":"Rechnungsbetrag",
+            "value":"300.00 CHF"
+         }
+      },
+      "reimbursementInformation":{
+         "totalAmount":{
+            "label":"Rechnungsbetrag",
+            "value":"300.00 CHF"
+         },
+         "sanitasAmount":{
+            "label":"Betrag Sanitas",
+            "value":"220.00 CHF"
+         },
+         "partnerAmount":{
+            "label":"Betrag Kunde",
+            "value":"80.00 CHF"
+         }
+      }
+   }
+]
+}
